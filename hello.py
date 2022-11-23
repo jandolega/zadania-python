@@ -14,11 +14,15 @@ def nasiona():
     zuzia = 29
     print (ala+adam+zuzia)
 
+def krowa():
+    dni = 30
+    mleko_dzienie = 2
+    mleko_miesiac = dni*mleko_dzienie
+    print(mleko_miesiac-37)
 
 
 
-
-nasiona()
+krowa()
 
 
 
